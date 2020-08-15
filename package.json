@@ -1,0 +1,12 @@
+{
+  "name": "anime-library",
+  "version": "1.0.0",
+  "description": "Anime library App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
