@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://david:davidhan@animelibrary.ubtiv.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
